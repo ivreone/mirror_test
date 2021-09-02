@@ -7,5 +7,4 @@ mirror_clone:
   script:
     - git clone https://gitlab+deploy-token-561582:UHsTzLiYwdZgTbtqHsDy@gitlab.com/ivreone/mirror_test.git
     - cd mirror_test
-    - git filter-branch -f --commit-filter 'GIT_AUTHOR_NAME="test"; GIT_AUTHOR_EMAIL="test@example.com"; GIT_COMMITER_NAME="test"; GIT_COMMITTER_EMAIL="test@example.com"; git commit-tree "$@";' HEAD 
-    - git push https://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@github.com/ivreone/mirror_test.git
+    - git filter-branch -f --commit-filter 'GIT_AUTHOR_NAME="test"; GIT_AUTHOR_EMAIL="test@example.com"; GIT_COMMITER_NAME="test"; GIT_COMMITTER_EMAIL="test@example.com"; git commit-tree "$@";' HEAD &&  git push https://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@github.com/ivreone/mirror_test.git
