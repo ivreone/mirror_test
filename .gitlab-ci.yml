@@ -1,0 +1,10 @@
+stages:
+  - mirror_clone
+
+mirror_clone:
+  stage: mirror_clone
+
+  script:
+    - git clone git@gitlab.com:ivreone/mirror_test.git
+    - cd mirror_test && git filter-branch -f --commit-filter 'GIT_AUTHOR_NAME="test"; GIT_AUTHOR_EMAIL="test@example.com"; GIT_COMMITER_NAME="test"; GIT_COMMITTER_EMAIL="test@example.com"; git commit-tree "$@";' HEAD && git push git@github.com:ivreone/mirror_test.git
+    - rm -rf mirror_test
