@@ -1,0 +1,2052 @@
+{
+  "banners": [
+    {
+      "code": "iphone_se_2",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_SE",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА IPHONE 12 SE",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "3 055 ₽ В МЕС.",
+          "color": "#00000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_SE/iPhone_SE_red_2.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_5.png"
+    },
+    {
+      "code": "",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_12_Pro_Max",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА IPHONE 12 PRO MAX",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "6 389 ₽ В МЕС.",
+          "color": "#00000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_12_Pro/white/2.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_1.png"
+    },
+    {
+      "code": "iphone_se_2",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_12_Pro_Max",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА IPHONE 12 PRO MAX",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "5 939 ₽ В МЕС.",
+          "color": "#00000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_12_Pro/navy/2.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_2.png"
+    },
+    {
+      "code": "iphone_se_2",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_12_Mini",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ОТКРОЙТЕ ",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "НОВЫЙ СМАРТФОН",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "IPHONE 12 MINI",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 203 ₽ В МЕС.",
+          "color": "#00000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_12/purple/violet1.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_3.png"
+    },
+    {
+      "code": "iphone_se_2",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_12",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ОТКРОЙТЕ ",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "НОВЫЙ СМАРТФОН",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "IPHONE 12",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 639 ₽ В МЕС.",
+          "color": "#00000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_12/green/2.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_4.png"
+    },
+    {
+      "code": "iphone_se_2",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_11",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА IPHONE 11",
+          "color": "#00000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "3 660 ₽ В МЕС.",
+          "color": "#00000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_11/Yellow/iPhone_11_Y_0.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_6.png"
+    },
+________________________________________________________________________    
+    {
+      "code": "1",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_12_Pro_Max",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА IPHONE 12 PRO MAX",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "6 389 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_12_Pro/white/2.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_1.png"
+    },
+    {
+      "code": "2",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_12_Pro",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#fffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#fffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА IPHONE 12 PRO MAX",
+          "color": "#fffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "5 939 ₽ В МЕС.",
+          "color": "#fffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_12_Pro/navy/2.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_2.png"
+    },
+    {
+      "code": "3",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_12_Mini",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ОТКРОЙТЕ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "НОВЫЙ СМАРТФОН",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "IPHONE 12 MINI",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 203 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_12/purple/violet1.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_3.png"
+    },
+    {
+      "code": "4",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_12",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ОТКРОЙТЕ",
+          "color": "#fffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "НОВЫЙ СМАРТФОН",
+          "color": "#fffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "IPHONE 12",
+          "color": "#fffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 639 ₽ В МЕС.",
+          "color": "#fffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_12/green/2.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_4.png"
+    },
+    {
+      "code": "5",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_SE",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА IPHONE 12 SE",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "3 055 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_SE/iPhone_SE_red_2.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_5.png"
+    },
+    {
+      "code": "6",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_APPLE_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPhone_SE",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА IPHONE 11",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "3 055 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/apple/catalog/iPhone_11/Yellow/iPhone_11_Y_0.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_6.png"
+    },
+    {
+      "code": "7",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_SAMSUNG_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_S21",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "СДЕЛАЙТЕ ПОДАРОК",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СЕБЕ ИЛИ БЛИЗКИМ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "GALAXY S21",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "3 874 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog-detail/s21/s21_front_violet.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_7.png"
+    },
+    {
+      "code": "8",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_SAMSUNG_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_S21_Plus",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "СДЕЛАЙТЕ ПОДАРОК",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СЕБЕ ИЛИ БЛИЗКИМ",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "GALAXY S21+",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 499 ₽ В МЕС.",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog-detail/s21/s21_plus_front_silver.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_8.png"
+    },
+    {
+      "code": "9",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_SAMSUNG_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_S21_Ultra",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА GALAXY S21 ULTRA",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "5 332 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog-detail/s21/s21u_front_black.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_9.png"
+    },
+    {
+      "code": "10",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_SAMSUNG_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_S20_FE_Qualcomm",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА GALAXY S21 FE",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "2 915 ₽ В МЕС.",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog-detail/s20-fe/navy_front.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_10.png"
+    },
+    {
+      "code": "11",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_SAMSUNG_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_Note20",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА GALAXY NOTE20",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 165 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog/Note20/mint_note20_front.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_11.png"
+    },
+    {
+      "code": "12",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_SAMSUNG_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_Note20_Ultra",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОРА МЕНЯТЬ",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СВОЙ СМАРТФОН",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА GALAXY NOTE20 ULTRA",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 999 ₽ В МЕС.",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog/Note20/white_note20_front.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_12.png"
+    },
+    {
+      "code": "13",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_SAMSUNG_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_ZFold2",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ОТКРОЙТЕ",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "НОВЫЙ СМАРТФОН",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "GALAXY Z FOLD2",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "9 657 ₽ В МЕС.",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog/fold/zfold2_front_mysticblack.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_13.png"
+    },
+    {
+      "code": "14",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "PHONES_SAMSUNG_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_ZFlip",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "СДЕЛАЙТЕ ПОДАРОК",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "СЕБЕ ИЛИ БЛИЗКИМ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "GALAXY Z FLIP",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 874 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog/flip/z_flip_open_side_purple.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_14.png"
+    },
+    {
+      "code": "15",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Air",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ВАШ",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "НОВЫЙ",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "APPLE IPAD AIR",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "3 288 ₽ В МЕС.",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_15.png"
+    },
+    {
+      "code": "16",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Pro_12_M1",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ДОЛГОЖДАННЫЙ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "APPLE IPAD PRO",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "ПО ПОДПИСКЕ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "5 271 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_16.png"
+    },
+    {
+      "code": "-",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Pro_12",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 494 ₽ В МЕС.",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : ""
+    },
+    {
+      "code": "-",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Pro_11_M1",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 144 ₽ В МЕС.",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : ""
+    },
+    {
+      "code": "-",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Pro_11",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "3 832 ₽ В МЕС.",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : ""
+    },
+    {
+      "code": "-",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Air_Cellular",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "3 755 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : ""
+    },
+    {
+      "code": "19",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Pro_11_Cellular_M1",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ВАШ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "НОВЫЙ",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "APPLE IPAD PRO",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 688 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_19.png"
+    },
+    {
+      "code": "-",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Pro_11_Cellular",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 377 ₽ В МЕС.",
+          "color": "#ffffff",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : ""
+    },
+    {
+      "code": "-",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Pro_12_Cellular_M1",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "",
+          "color": "#000",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "4 377 ₽ В МЕС.",
+          "color": "#000",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : ""
+    },
+    {
+      "code": "-",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-IOS" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Apple_iPad_Pro_12_Cellular",
+        "type": "DEEPLINK",
+        "text": null
+      },
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "6 088 ₽ В МЕС.",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : ""
+    },
+    {
+      "code": "20",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_Tab_S7_Plus",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "МЕЧТЫ",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "ДОЛЖНЫ СБЫВАТЬСЯ",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "GALAXY TAB S7+",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "2 999 ₽ В МЕС.",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog-detail/tab-s7plus/black1.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_20.png"
+    },
+    {
+      "code": "21",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Galaxy_Tab_A7_LTE",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ВОПЛОТИТЕ МЕЧТУ",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "В РЕАЛЬНОСТЬ",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "GALAXY TAB A7",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "874 ₽ В МЕС.",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog-detail/tab-a7/gold1.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_21.png"
+    },
+    {
+      "code": "22",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Galaxy_Tab_S6_Lite_LTE",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "МЕЧТЫ",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "ДОЛЖНЫ СБЫВАТЬСЯ",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "GALAXY TAB S6 LITE",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "1 447 ₽ В МЕС.",
+          "color": "#ffffff'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog-detail/s6lite/blue1.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_22.png"
+    },
+    {
+      "code": "23",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE" 
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "TABLETS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Samsung_Galaxy_Tab_S7_LTE",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ВОПЛОТИТЕ МЕЧТУ",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "В РЕАЛЬНОСТЬ",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "GALAXY TAB S7",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "2 531 ₽ В МЕС.",
+          "color": "#000'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/samsung/catalog-detail/tab-s7/silver7.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_23.png"
+    },
+    {
+      "code": "24",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE",
+        "SUBSCRIBE-RF-IOS"  
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "LAPTOPS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Acer_ConceptD_7_Ezel",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "МОЩНЫЙ НОУТБУК",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "ACER CONCEPTD 7 EZEL",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "УДОБНАЯ ПОДПИСКА",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "15 812 ₽ В МЕС.",
+          "color": "#000'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_24.png"
+    },
+    {
+      "code": "25",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE",
+        "SUBSCRIBE-RF-IOS"  
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "LAPTOPS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Acer_Swift_5",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ГОТОВЬТЕСЬ БРАТЬ",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "НОВЫЕ ВЫСОТЫ",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "ACER SWIFT 5",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "5 077 ₽ В МЕС.",
+          "color": "#000'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://content.forward.lc/files/acer/catalog/Swift_5_green/1.png",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_25.png"
+    },
+    {
+      "code": "26",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE",
+        "SUBSCRIBE-RF-IOS"  
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "LAPTOPS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Acer_Swift",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "УСПЕТЬ ВСЕ",
+          "color": "#fffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "ПОРАБОТАТЬ И ПОИГРАТЬ",
+          "color": "#fffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "ACER SWIFT",
+          "color": "#fffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "1 124 ₽ В МЕС.",
+          "color": "#fffff'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://yadi.sk/i/zWrhanjUd1DGfQ",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_26.png"
+    },
+    {
+      "code": "27",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE",
+        "SUBSCRIBE-RF-IOS"  
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "LAPTOPS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Acer_Enduro_N3",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "ПОЛУЧИТЕ МАКСИМУМ",
+          "color": "#fffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "РАБОТАЙТЕ И ИГРАЙТЕ",
+          "color": "#fffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "НА ACER ENDURO N3",
+          "color": "#fffff'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "5 295 ₽ В МЕС.",
+          "color": "#fffff'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "https://yadi.sk/i/Av4hzdPrzamXYA",
+      "bgImgUrl" : "https:\/\/content.forward.lc\/files\/subscribe-rf\/promo\/rd\/PROMO_GOOD_27.png"
+    },
+    {
+      "code": "28",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE",
+        "SUBSCRIBE-RF-IOS"  
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "LAPTOPS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Acer_Aspire_5",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "2 321 ₽ В МЕС.",
+          "color": "#000'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : ""
+    },
+    {
+      "code": "29",
+      "from": "2021-02-01T00:00:01",
+      "to": "2022-02-01T00:00:01",
+      "channels": [
+        "SUBSCRIBE-RF-MOBILE",
+        "SUBSCRIBE-RF-IOS"  
+      ],
+      "screens": [
+        "main",
+        "catalog"
+      ],
+      "categories": [
+        "LAPTOPS_ALL"
+      ],
+      "type": "IMG_BANNER_FULL",
+      "placeType": "CATALOG_MAIN_TOP",
+      "priority": 3,
+      "actionLink": {
+        "url": "fwddeeplink:\/\/catalog\/models\/Acer_ConceptD_3_Pro",
+        "type": "DEEPLINK",
+        "text": null
+      }, 
+      "bannerTexts": [
+        {
+          "place": "TL",
+          "text": "",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "TR",
+          "text": "",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BL",
+          "text": "",
+          "color": "#000'",
+          "contentType": "TEXT"
+        },
+        {
+          "place": "BR",
+          "text": "2 321 ₽ В МЕС.",
+          "color": "#000'",
+          "contentType": "TEXT"
+        }
+      ],
+      "fgImgUrl" : "",
+      "bgImgUrl" : ""
+    }
+  ]
+}
+
