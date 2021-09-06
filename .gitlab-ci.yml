@@ -19,6 +19,7 @@ mirror_clone:
       - git config --global user.name "ivreone"
 
   script:
+    - git remote add origin https://gitlab.com/ivreone/mirror_test.git
     - git filter-branch -f --commit-filter 'GIT_AUTHOR_NAME="test"; GIT_AUTHOR_EMAIL="test@example.com"; GIT_COMMITER_NAME="test"; GIT_COMMITTER_EMAIL="test@example.com"; git commit-tree "$@";' HEAD
     - git shortlog -s -n -e
     - git push --mirror git@github.com:ivreone/mirror_test.git
