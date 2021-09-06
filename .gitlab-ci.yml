@@ -5,7 +5,7 @@ mirror_clone:
   stage: mirror_clone
 
   before_script:
-      - mkdir -p /root/.ssh/
+      - mkdir -p ~/.ssh/
       - echo "$GITHUB_SSH_KEY" | tr -d '\r' > ~/.ssh/id_rsa
       - chmod 700 ~/.ssh/id_rsa
       - eval $(ssh-agent -s)
